@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559913972235",
+    "project_id": "gestionetudiant-4fba6",
+    "storage_bucket": "gestionetudiant-4fba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559913972235:android:91f4b09efebba6c804cd0e",
+        "android_client_info": {
+          "package_name": "com.example.gestionetudiant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2yq_B_d6BXo4zzCIr50QjRNij5oGb9ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
